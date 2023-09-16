@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hamzaqu14589309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hamzaqu14589309" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza qureshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza-qureshi-871163245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza qureshi" height="30" width="40" /></a>
 <a href="https://fb.com/hámzà qûrèshí" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hámzà qûrèshí" height="30" width="40" /></a>
 <a href="https://instagram.com/hamza_qureshi_2906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_qureshi_2906" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code champs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code champs" height="30" width="40" /></a>
