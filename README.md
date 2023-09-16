@@ -1,7 +1,7 @@
 [![MasterHead](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)](https://www.linkedin.com/in/hamza-qureshi-871163245/)
 <h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐇𝐚𝐦𝐳𝐚 𝐐𝐮𝐫𝐞𝐬𝐡𝐢</h1>
 <h3 align="center">𝖠 𝖯𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖥𝗋𝗈𝗆 𝖯𝖺𝗄𝗂𝗌𝗍𝖺𝗇.</h3>
-<img align="right" alt="mern coding HQ." width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
+<img align="right" alt="mern coding HQ." width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-qureshi09&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-qureshi09" /> </p>
 
