@@ -114,8 +114,8 @@ const hamza = {
 ##  GitHub Stats
 
 <div align="start">
-  <img height="170" width="450" src="https://github-readme-stats.vercel.app/api?username=Hamza-Qureshi09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=58a6ff" />
-  <img height="170"  width="450" src="https://streak-stats.demolab.com?user=Hamza-Qureshi09&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img height="170" width="430" src="https://github-readme-stats.vercel.app/api?username=Hamza-Qureshi09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=58a6ff" />
+  <img height="170"  width="430" src="https://streak-stats.demolab.com?user=Hamza-Qureshi09&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
 <div align="start">
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Qureshi09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" />
