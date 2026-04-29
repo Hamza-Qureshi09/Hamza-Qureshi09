@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=5%2B+years+building+production+SaaS+%7C+12%2B+shipped+products;MERN+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+Deno+%E2%80%A2+Microservices;Author+of+Codexa+%E2%80%94+jsr.io%2F%40codexa;Event-Driven+%E2%80%A2+RabbitMQ+%E2%80%A2+Kafka+%E2%80%A2+Kubernetes;Researcher+%7C+NLP+%7C+LLMs+%7C+Low-Resource+Languages)](https://git.io/typing-svg)
 
-<br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-qureshi-871163245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-qureshi.vercel.app)
