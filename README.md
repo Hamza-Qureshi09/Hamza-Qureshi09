@@ -121,15 +121,6 @@ const hamza = {
 </div>
 
 
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Qureshi09&theme=nord&no-frame=false&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</div>
-
-
-
 <div align="center">
 
 *"Taking complex business problems and turning them into clean, scalable, maintainable solutions."*
