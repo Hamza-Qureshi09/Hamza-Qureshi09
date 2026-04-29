@@ -3,9 +3,10 @@
 </div>
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=5%2B+years+building+production+SaaS+%7C+12%2B+shipped+products;MERN+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+Deno+%E2%80%A2+Microservices;Author+of+Codexa+%E2%80%94+jsr.io%2F%40codexa;Event-Driven+%E2%80%A2+RabbitMQ+%E2%80%A2+Kafka+%E2%80%A2+Kubernetes;Researcher+%7C+NLP+%7C+LLMs+%7C+Low-Resource+Languages)](https://git.io/typing-svg)
 
-
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-qureshi-871163245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-qureshi.vercel.app)
@@ -113,12 +114,17 @@ const hamza = {
 ##  GitHub Stats
 
 <div align="start">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Qureshi09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza-Qureshi09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=58a6ff" />
   <img height="170" src="https://streak-stats.demolab.com?user=Hamza-Qureshi09&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
 <div align="start">
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Qureshi09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
+
+
+
+
+
 
 
 <div align="center">
