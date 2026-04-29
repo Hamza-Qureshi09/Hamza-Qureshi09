@@ -20,8 +20,7 @@
 </div>
 
 
-## 🧬 MYSELF
-
+## 🧬 About Me
 ```ts
 const hamza = {
   title      : "Full-Stack Engineer · OSS Author · Researcher",
@@ -112,7 +111,7 @@ const hamza = {
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza-Qureshi09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=58a6ff" />
@@ -124,7 +123,7 @@ const hamza = {
 
 
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Qureshi09&theme=nord&no-frame=false&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
