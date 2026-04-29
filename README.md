@@ -45,7 +45,6 @@ const hamza = {
 };
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -93,7 +92,6 @@ const hamza = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
 
 ## 🚀 Currently Building
 
@@ -102,9 +100,8 @@ const hamza = {
 | **[Codexa](https://jsr.io/@codexa)** | TypeScript-first Deno framework · Published on JSR | 🟢 Active |
 | **[MediCloud](https://app.medicloud.ly)** | Pathology lab SaaS for Libya | 🟢 Active |
 | **[Raqaez](https://app.raqaez.com)** | Freelance marketplace · Libya | 🟢 Active |
-| **[LeadBird](https://etihadcrm2.rebol.info/login)** | Real estate lead & CRM platform *(fka EtihadCRM)* | 🟢 Active |
+| **[LeadBird](https://etihadcrm2.rebol.info/login)** | Real estate lead & CRM platform *(EtihadCRM)* | 🟢 Active |
 
----
 
 ## 🔬 Research
 
@@ -113,7 +110,7 @@ const hamza = {
 
 **Published —** [A Comprehensive Synthesis of Virtual Memory Innovations and Challenges](https://www.researchgate.net/publication/393986214_A_COMPREHENSIVE_SYNTHESIS_OF_VIRTUAL_MEMORY_INNOVATIONS_AND_CHALLENGES) · ResearchGate
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -130,7 +127,7 @@ const hamza = {
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Qureshi09&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
----
+
 
 ## 🏆 Trophies
 
@@ -138,7 +135,7 @@ const hamza = {
   <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Qureshi09&theme=nord&no-frame=false&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </div>
 
----
+
 
 <div align="center">
 
